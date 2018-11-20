@@ -1,0 +1,19 @@
+{
+  "name": "cursocompletonode",
+  "version": "1.0.0",
+  "description": "Capacitándome sobre nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagoblas/CursoCompletoNode.git"
+  },
+  "author": "santiagoblas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagoblas/CursoCompletoNode/issues"
+  },
+  "homepage": "https://github.com/santiagoblas/CursoCompletoNode#readme"
+}
